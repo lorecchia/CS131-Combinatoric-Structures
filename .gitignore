@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+_site
+.sass-cache
+.jekyll-metadata
+=======
+_site/
+>>>>>>> FETCH_HEAD
