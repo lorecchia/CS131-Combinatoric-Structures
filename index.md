@@ -22,18 +22,22 @@ The course is a required class for CS concentrators.
 **Prerequisites**: high school mathematics.
 
 
-## Communications via Piazza
+## Class Websites
 
-We will use Piazza for class discussion. Our class page is located at: <https://piazza.com/bu/spring2017/cs131/home>. Please sign up for access [here](https://piazza.com/bu/spring2017/cs131). We will also use Piazza to post announcements,homework assignments, handouts and other communications.
+This webpage will not update during the course. All communications and course administration will be managed through the two following websites:
 
-The system is highly catered to getting you answers to your questions fast and
-efficiently from classmates, the TF, and the instructor. Rather than emailing
-questions to the teaching staff, I encourage you to post your questions on
-Piazza. We also encourage you to post answers to student questions there
+- We will use Piazza for class discussion. Our class page is located at: <https://piazza.com/bu/spring2017/cs131/home>. Please sign up for access [here](https://piazza.com/bu/spring2017/cs131). We will also use Piazza to post announcements,homework assignments, handouts and other communications. We encourage you to post answers to student questions there
 (but obviously, not answers to problems on the problem sets!). 
 Your activity on Piazza may be taken into account as part of the participation component of your grade.
 
+- We will use the [Blackboard website for CS131](learn.bu.edu) for its gradesheet capability and for some self-assessment tasks.
+
+
 ## Clickers
+
+During lecture, we will be using clickers as an audience response system. All students should set up a clicker (or use the equivalent smartphone app) and register it for CS 131 by following the [instructions here](clicker.html).
+
+
 
 ## Textbooks
 
