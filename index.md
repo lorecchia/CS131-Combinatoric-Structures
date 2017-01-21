@@ -1,18 +1,18 @@
+__Instructor__: [Prof. Lorenzo Orecchia](http://orecchia.net).  
+ _Office hours_: M 11am-12n in MCS 135D.  
 
-# CS 131 Spring 2017: Combinatoric Structures
+__Teaching Fellow__: Hannah Flynn.   
+ _Office hours_: T 2-3.30pm, W 5-6.30pm in the Undegraduate Lab.
 
-**Instructor**: [Prof. Lorenzo Orecchia](http://orecchia.net)  MCS 135D.  _Office hours_: TBA   
-**TA:** Hannah Flynn.  _Office hours_:
-
-**Lectures**: Tue,Thu 3.30pm-4.45pm in KCB-101.  
-**Labs**:
-: A2:    Wed 11.15am-12.05pm, in MCS B33
-: A3:    Wed 1.25pm-2.15pm, in MCS B25
-: A4:    Wed 2.30pm-3.20pm, in MCS B21
-: A5:    Wed 3pm-4pm, in BRB 122
+__Lectures__: Tue,Thu 3.30pm-4.45pm in KCB-101.  
+__Labs__:  
+  A2:    Wed 11.15am-12.05pm, in MCS B33  
+  A3:    Wed 1.25pm-2.15pm, in MCS B25  
+  A4:    Wed 2.30pm-3.20pm, in MCS B21  
+  A5:    Wed 3pm-4pm, in BRB 122  
 
 
-**Syllabus**: see the tentative course schedule [here](https://docs.google.com/spreadsheets/d/16zU7A5lqDNNbJVjETO6XPas3sM0HMOGMlxghBtLTOz0/edit?usp=sharing).
+__Syllabus__: see the tentative course schedule [here](https://docs.google.com/spreadsheets/d/16zU7A5lqDNNbJVjETO6XPas3sM0HMOGMlxghBtLTOz0/edit?usp=sharing).
 
 ## Official Course Description
 
@@ -64,10 +64,12 @@ assignments, as they provide the best preparation for the exams.
 ## Grading and Attendance
 
 The course score will be broken down as follows:
-: Problem sets: 20%
-: Midterms: 40%
-: Final exam: 35%
-: Attendance and participation: 5%  
+
+- Problem sets: 20%
+- Midterms: 40%
+- Final exam: 35%
+- Attendance and participation: 5%   
+
 The process of turning scores into grades will be mostly based on the relative score compared to the class as a whole, with a smaller component depending on the absolute value of the score. We will strive to provide the students with predicted letter grades after each midterm.
 
 
@@ -89,7 +91,9 @@ section for this course and we will take attendance at the beginning of
 lecture and lab on occasion. Some material covered in lecture and lab will not be
 covered by our textbooks. 
 
-**Collaboration Policy**: You are encouraged to collaborate with one another in studying the textbook and lecture material. As long as it satisfies the following conditions, collaboration on the homework assignments is permitted and will not reduce your grade:
+**Collaboration Policy**: 
+
+- You are encouraged to collaborate with one another in studying the textbook and lecture material. As long as it satisfies the following conditions, collaboration on the homework assignments is permitted and will not reduce your grade:
 - Before discussing each homework problem with anyone else, you must give it an honest half-hour of serious thought.
 - You may discuss ideas and approaches with other students in the class, but not share any written solutions. In other words, the writeups you submit must be entirely your own work. You must also acknowledge clearly in the appropriate portion of your solutions (e.g., at the top of your writeups) people with whom you discussed ideas for that portion.
 - You may get help from TFs and undergrad assistants for the class for specific problems. Don't expect them to do it for you, however.
