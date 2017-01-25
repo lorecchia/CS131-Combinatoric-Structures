@@ -31,7 +31,7 @@ LATEX  = pdflatex
 %.pdf: %.tex
 	$(LATEX) $<
 	rm $*.out $*.log $*.aux
-	mv $< lectures/
+	mv $*.pdf lectures/pdf
 
 topleveltarget: $(TGTS)
 
