@@ -9,7 +9,7 @@ __Labs__:
   A2:    Wed 11.15am-12.05pm, in MCS B33  
   A3:    Wed 1.25pm-2.15pm, in MCS B25  
   A4:    Wed 2.30pm-3.20pm, in MCS B21  
-  A5:    Wed 3pm-4pm, in BRB 122  
+  A5:    Wed 3.35pm-4.25pm, in BRB 122  
 
 
 __Syllabus__: see the tentative course schedule [here](https://docs.google.com/spreadsheets/d/16zU7A5lqDNNbJVjETO6XPas3sM0HMOGMlxghBtLTOz0/edit?usp=sharing).
