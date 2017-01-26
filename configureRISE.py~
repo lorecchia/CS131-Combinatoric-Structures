@@ -5,5 +5,4 @@ cm.update('livereveal', {
               'theme': 'beige',
               'transition': 'fade',
               'start_slideshow_at': 'selected',
-              'scroll' : True,
 })
