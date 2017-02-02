@@ -1,0 +1,8 @@
+<ipestyle name="master-preamble">
+<preamble>
+
+  \usepackage{amsfonts}
+  \usepackage{amsmath}
+  \newcommand{\R}{\mathbb{R}}
+  </preamble>
+</ipestyle>
