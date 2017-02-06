@@ -4,9 +4,9 @@ __Instructor__: [Prof. Lorenzo Orecchia](http://orecchia.net).
 __Teaching Fellow__: Hannah Flynn  (hmflynn at bu.edu)   
  _Office hours_: T 2-3.30pm, W 5-6.30pm in the Undegraduate Lab.
  
- __Undergraduate Assistants__:
+ __Undergraduate Assistants__:   
 Jiadong Chen (chenjd at bu.edu)  
-_Tutoring hours_: T6-7.30 in the Undergarduate Lab   
+_Tutoring hours_: T6-7.30 in the Undergraduate Lab   
 Sarah M'Saad (sarms at bu.edu)   
 _Tutoring hours_: W5-6.30 in the Undergraduate Lab   
 
