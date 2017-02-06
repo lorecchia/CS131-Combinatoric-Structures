@@ -5,10 +5,10 @@ __Teaching Fellow__: Hannah Flynn  (hmflynn at bu.edu)
  _Office hours_: T 2-3.30pm, W 5-6.30pm in the Undegraduate Lab.
  
  __Undergraduate Assistants__:
-Jiadong Chen (chenjd at bu.edu)
-_Tutoring hours_: T6-7.30 in the Undergarduate Lab
-Sarah M'Saad (sarms at bu.edu)
-_Tutoring hours_: W5-6.30 in the Undergraduate Lab
+Jiadong Chen (chenjd at bu.edu)  
+_Tutoring hours_: T6-7.30 in the Undergarduate Lab   
+Sarah M'Saad (sarms at bu.edu)   
+_Tutoring hours_: W5-6.30 in the Undergraduate Lab   
 
 __Lectures__: Tue,Thu 3.30pm-4.45pm in KCB-101.  
 __Labs__:  
