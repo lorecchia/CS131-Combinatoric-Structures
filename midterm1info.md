@@ -2,11 +2,11 @@
 Last updated: Sunday 2/12 at 12.25pm.
 
 ## Logistics:
-The midterm will take place in class, from 3.30pm to 4.45pm. 
-	- You will have space to solve the exercises on the exam booklet, so no extra paper is needed. 
-	- No cheatsheets or index cards allowed. 
-	- Please write in pen, not pencil.
-	- Please make a note of your CS131 ID number, the one you use for homework. You will have to use the same number to identify your midterm.
+The midterm will take place in class, from 3.30pm to 4.45pm.   
+	- You will have space to solve the exercises on the exam booklet, so no extra paper is needed.  
+	- No cheatsheets or index cards allowed.  
+	- Please write in pen, not pencil.  
+	- Please make a note of your CS131 ID number, the one you use for homework. You will have to use the same number to identify your midterm.  
 	
 ## Material covered
 
