@@ -7,10 +7,12 @@ The midterm will take place in class, from 3.30pm to 4.45pm.
 - Everything from Lectures 1-6. Lecture notes are available on [Piazza](https://piazza.com/bu/spring2017/cs131/resources).
 - Tuesday's Lecture 7 will finish up the topic of nested quantifiers. This will be included in the midterm. Everyhting else from Lecture 7 will not be on the midterm.
 - From the textbook (Rosen):
-	- Chapter 1.1: Propositional Logic;
-	- Chapter 1.3: Propositional Equivalencs; up to page 30. Stop at the heading Propositional Satisfiability;
+	- Chapter 1.1: Propositional Logic.
+	- Chapter 1.3: Propositional Equivalencs; up to page 30. Stop at the heading Propositional Satisfiability.
 	- Chapter 1.4: Predicates and Quantifiers; up to page 51. Stop at Logic Programming.
 	- Chapter 1.5: Nested Quantifiers.
+	- Chapter 2.1: Sets; excluding the sections on the Size of Sets, Power Sets and Cartesian Products.
+	- Chapter 2.2: Set Operations; excluding the section on Computer Representation of Sets.
 
 Of course, reading some of non-required material may help you gain familiarity with the subject and prove useful in the midterm, so you are encouraged to extend your readings beyond the list above.
 
