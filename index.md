@@ -55,8 +55,10 @@ notation, and elementary proof techniques. If you are unfamiliar with devising a
 
 ## Exams
 
-There will be two in-class midterms held during the middle of
-the semester, tentatively Thursday, February 16 and Thursday, March 23. There will also be a final at the end of the semester.
+There will be two in-class midterms:
+- Thursday, February 16.[Info for midterm 1](midterm1info.html)
+- Thursday, March 23.
+There will also be a final at the end of the semester.
 
 ## Homework Assignments 
 Assignments will typically be due Thursday at 12PM noon. You must submit a hardcopy no later than
