@@ -1,7 +1,13 @@
 # Information for Midterm 1: 2/16/2017
+Last updated: Sunday 2/12 at 12.25pm.
 
-The midterm will take place in class, from 3.30pm to 4.45pm.
-
+## Logistics:
+The midterm will take place in class, from 3.30pm to 4.45pm. 
+	- You will have space to solve the exercises on the exam booklet, so no extra paper is needed. 
+	- No cheatsheets or index cards allowed. 
+	- Please write in pen, not pencil.
+	- Please make a note of your CS131 ID number, the one you use for homework. You will have to use the same number to identify your midterm.
+	
 ## Material covered
 
 - Everything from Lectures 1-6. Lecture notes are available on [Piazza](https://piazza.com/bu/spring2017/cs131/resources).
@@ -37,3 +43,4 @@ The labs will be dedicated to reviewing material for the midterm. The TF will an
 ## A bit of advice on preparing for the midterm
 
 The book presents many examples of the basic concepts of logic. These are intended to gradually familiarize you with these concepts and their usage. However, you do __NOT__ need to know these examples. All you _need to know_ are the definitions of the basic concepts and all you _need to be able to do_ is to put these definitions in use, on any reasonable example, no matter how different from those in the book. Please focus on understanding, not on memorizing. Practice is the best way to build understanding: do not plan to read all the book chapters first and then practice. Try out exercises as you go. 
+
