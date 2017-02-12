@@ -56,7 +56,7 @@ notation, and elementary proof techniques. If you are unfamiliar with devising a
 ## Exams
 
 There will be two in-class midterms:
-- Thursday, February 16.[Info for midterm 1](midterm1info.html)
+- Thursday, February 16. [Info for midterm 1](midterm1info.htm)
 - Thursday, March 23.
 There will also be a final at the end of the semester.
 
