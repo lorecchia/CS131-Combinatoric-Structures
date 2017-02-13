@@ -1,5 +1,5 @@
 # Information for Midterm 1: 2/16/2017
-Last updated: Sunday 2/12 at 12.25pm.
+Last updated: Sunday 2/12 at 10.25pm.
 
 ## Logistics:
 The midterm will take place in class, from 3.30pm to 4.45pm.   
@@ -8,6 +8,9 @@ The midterm will take place in class, from 3.30pm to 4.45pm.
 	- Please write in pen, not pencil.  
 	- Please make a note of your CS131 ID number, the one you use for homework. You will have to use the same number to identify your midterm.  
 	
+### Special accomodations
+If you are entitled to a special accomodation for taking the exam, please notify the instructor and the TF by email by the end of Monday 2/13. 
+
 ## Material covered
 
 - Everything from Lectures 1-6. Lecture notes are available on [Piazza](https://piazza.com/bu/spring2017/cs131/resources).
