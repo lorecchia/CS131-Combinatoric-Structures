@@ -13,14 +13,13 @@ If you are entitled to a special accomodation for taking the exam, please notify
 
 ## Material covered
 
-- Everything from Lectures 9-13 today. See lecture schedule [here](https://docs.google.com/spreadsheets/d/16zU7A5lqDNNbJVjETO6XPas3sM0HMOGMlxghBtLTOz0/edit#gid=0).
+- Everything from Lectures 9-12. See lecture schedule [here](https://docs.google.com/spreadsheets/d/16zU7A5lqDNNbJVjETO6XPas3sM0HMOGMlxghBtLTOz0/edit#gid=0). The basics of Strong Induction from Lecture 13.
 - From the textbook (Rosen):
-	- Chapter 1.7: Propositional Logic.
-	- Chapter 1.8: Propositional Equivalencs; up to page 30. Stop at the heading Propositional Satisfiability.
-	- Chapter 2.4: Predicates and Quantifiers; up to page 51. Stop at Logic Programming.
-	- Chapter 5.1: Nested Quantifiers.
-	- Chapter 5.2: Sets; excluding the sections on the Size of Sets, Power Sets and Cartesian Products.
-
+	- Chapter 1.7: Intro to Proofs.
+	- Chapter 1.8: Proof Methods and Strategy.
+	- Chapter 2.4: Sequences and Summation.
+	- Chapter 5.1: Mathematical Induction.
+	- Chapter 5.2: Strong Induction and Well-Ordering.
 
 Of course, reading some of non-required material may help you gain familiarity with the subject and prove useful in the midterm, so you are encouraged to extend your readings beyond the list above.
 
