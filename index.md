@@ -1,5 +1,5 @@
 __Instructor__: [Prof. Lorenzo Orecchia](http://orecchia.net).  
- _Office hours_: M 12n-1p in MCS 135D.  
+ _Office hours_: M 12n-1p, F 1p-2p, in MCS 135D.  
 
 __Teaching Fellow__: Hannah Flynn  (hmflynn at bu.edu)   
  _Office hours_: T 2-3.30pm, W 5-6.30pm in the Undegraduate Lab.
